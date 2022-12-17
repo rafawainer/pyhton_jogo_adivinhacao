@@ -1,5 +1,5 @@
 def jogar():
-    print("Este jogo ainda não está pronto!")
+    print("Em deesnvolvimento.....!")
 
 if __name__ == '__main__':
     jogar()
